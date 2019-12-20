@@ -1,0 +1,9 @@
+name: mowa
+type: theme
+base theme: bartik
+description: 'just a demo theme to demostrate various theme related development training'
+core: 8.x
+stylesheets:
+  - css/components/article.css
+
+version: '0.0.1'
