@@ -1,3 +1,12 @@
+<?php
+
+/**
+ * @file
+ * Functions to support theming in the mowa theme.
+ */
+
+use Drupal\Core\Template\Attributes;
+
 /**
  * Implements hook_preprocess_HOOK() for node.html.twig.
  */
